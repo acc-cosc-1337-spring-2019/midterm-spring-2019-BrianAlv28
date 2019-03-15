@@ -8,6 +8,7 @@ Loop through vector of Roll and output roll result
 */
 int main() 
 {
+	vector 
 	
 	return 0;
 }
